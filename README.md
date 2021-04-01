@@ -1,6 +1,8 @@
 # DarkTheme
 This project shows how to implement Android Material design Dark theme.
 
+Download apk file [here](https://github.com/Kakyire/DarkTheme/raw/master/Dark%20Theme.apk)
+
 ### System Light Theme
 ![Screenshot 2021-04-01 at 01 49 38](https://user-images.githubusercontent.com/47930771/113232439-a5393a80-928c-11eb-86bf-b593daf5b4df.png)
 
