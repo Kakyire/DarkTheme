@@ -1,0 +1,19 @@
+
+Y
+)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+z
+Japp/src/main/java/com/kakyiretechnologies/darktheme/kotlin/MainActivity.kt,d/1/d111b385a01f6d3f78aefc76f5fb5d21a2b9178f
+~
+Napp/src/main/java/com/kakyiretechnologies/darktheme/kotlin/SettingsActivity.kt,e/a/eaf903ad9cc6e809699c7905b777575f628363b6
+~
+Napp/src/main/java/com/kakyiretechnologies/darktheme/java/SettingsFragment.java,5/6/56271fb3b021009e653c8f9b6cf358c89ae6c1d7
+~
+Napp/src/main/java/com/kakyiretechnologies/darktheme/kotlin/SettingsFragment.kt,c/2/c2827440a5318313111687b915ad2888a41b3b7b
+z
+Japp/src/main/java/com/kakyiretechnologies/darktheme/java/MainActivity.java,f/3/f398cd83a5d366c3cef041b20ae475006ce9d840
+~
+Napp/src/main/java/com/kakyiretechnologies/darktheme/java/SettingsActivity.java,c/4/c4ae92978336ae407f12431e4d304e56634878b9
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
